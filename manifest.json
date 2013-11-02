@@ -1,12 +1,12 @@
 {
   "name" : "Stream to XBMC",
-  "version" : "1.2",
+  "version" : "1.2.1",
   "description" : "Adds a page content to various sites to push video files to XBMC",
   "background" : {
     "scripts": ["background.js", "jquery-1.7.2.min.js"]
   },
   "icons": { "128": "movie-128.png" },
-  "homepage_url": "https://github.com/MahadevanSrinivasan/EintoXBMC",
+  "homepage_url": "https://github.com/crosstheline/StreamToXBMC",
   "page_action" :
   {
     "default_icon" : "movie.png",
